@@ -59,7 +59,9 @@ footer {
 }
 .card {
   border-radius: 0;
+  background-color:yellow;
 }
+
 
 #page-top {
   width: 40px;
